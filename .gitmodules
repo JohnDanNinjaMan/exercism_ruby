@@ -1,0 +1,3 @@
+[submodule "rna_transcription"]
+	path = rna_transcription
+	url = git@github.com:JohnDanNinjaMan/rna_transcription.git
