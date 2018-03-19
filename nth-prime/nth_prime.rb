@@ -33,5 +33,3 @@ class Prime
     @@prime_list[i-1]
   end
 end
-
-Prime.nth(2)
